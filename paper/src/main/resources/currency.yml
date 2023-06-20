@@ -1,0 +1,8 @@
+currency:
+  example-coin:
+    singular: coin
+    plural: coins
+    prefix: ' ◆'
+    color:
+      primary: "#E8FBEA"
+      secondary: "#43DD59"

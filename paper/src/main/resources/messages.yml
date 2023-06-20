@@ -1,0 +1,7 @@
+messages:
+  hello:
+    java: Hello java player!
+    bedrock: Hello bedrock player!
+  goodbye:
+    java: Goodbye java player!
+    bedrock: Goodbye bedrock player!

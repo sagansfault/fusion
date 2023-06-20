@@ -1,0 +1,13 @@
+## The name of the proxy internally
+proxyId: proxy-example
+
+## Redis Credentials
+redisAddress: "db.example.com"
+redisPort: "6379"
+redisPassword: "password"
+
+## This value should match the port in the nuVotifier config
+votifierPort: 8132
+
+## The organization
+organization: "none"

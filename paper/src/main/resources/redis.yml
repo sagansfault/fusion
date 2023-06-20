@@ -1,0 +1,4 @@
+# Username and password are optional as not all redis servers have authentication
+host: db.example.com
+port: 6379
+password: password
